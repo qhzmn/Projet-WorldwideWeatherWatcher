@@ -34,5 +34,3 @@ Fournir une solution simple, efficace et sécurisée pour les équipages, avec u
 4. [Objectif](#objectif)
 
 ---
-
-N'hésitez pas à personnaliser davantage en fonction de vos besoins spécifiques !
