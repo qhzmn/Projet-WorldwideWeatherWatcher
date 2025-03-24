@@ -17,10 +17,10 @@ Ce projet est développé pour l'Agence Internationale pour la Vigilance Météo
 
 ## Modes de Fonctionnement
 
-- **Standard** : Acquisition normale des données.
-- **Configuration** : Paramétrage du système (bouton rouge).
-- **Maintenance** : Accès aux données en toute sécurité (bouton rouge 5s).
-- **Économique** : Réduction de la consommation d'énergie (bouton vert 5s).
+- **Standard** (LED verte continue) : Acquisition normale des données.
+- **Configuration** (LED jaune continue) : Paramétrage du système (bouton rouge).
+- **Maintenance** (LED orange continue) : Accès aux données en toute sécurité (bouton rouge 5s).
+- **Économique** LED bleue continue) : Réduction de la consommation d'énergie (bouton vert 5s).
 
 ## Objectif
 
